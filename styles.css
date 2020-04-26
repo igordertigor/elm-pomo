@@ -1,0 +1,22 @@
+body {
+  font-family: sans-serif;
+}
+
+#outer-container {
+  font-size: 25pt;
+  display: table;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+}
+
+#inner-container {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.pomodori {
+  text-align: center;
+}
